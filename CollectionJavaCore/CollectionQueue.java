@@ -29,8 +29,5 @@ public class CollectionQueue {
 
         qu.remove(2809);
         System.out.print(qu); //[1235, 1555, 1955]
-
-
     }
-    
 }
